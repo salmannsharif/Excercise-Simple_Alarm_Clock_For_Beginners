@@ -1,2 +1,1 @@
-# salmanameen-Excercise-Simple_Alarm_Clock_For_Beginners
-Creating a simple alarm clock for beginners to practice ....
+
